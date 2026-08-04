@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Sambit Sahoo
 
-<!--
-**sambitsahoo7/sambitsahoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Engineer
 
-Here are some ideas to get you started:
+I am a QA Engineer with experience in Manual Testing and currently learning Automation Testing using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+- Manual Testing
+- Python
+- SQL
+- API Testing (Postman)
+- Git & GitHub
+- Selenium (Learning)
+- Playwright (Learning)
+
+### 📚 Currently Learning
+- Automation Testing
+- AI for QA
+- Playwright with Python
+
+### 🚀 Projects
+- Manual Testing Portfolio
+- API Testing
+- SQL Practice
+- Python Programs
+- Selenium Automation
+
+### 📫 Connect with Me
+- LinkedIn: (Add your LinkedIn URL)
